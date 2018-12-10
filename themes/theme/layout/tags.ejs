@@ -1,0 +1,10 @@
+<!-- <%- partial('_partial/bg-cover') %> -->
+<main class="content" style="margin-top: 100px;">
+
+    <%- partial('_widget/tag-cloud') %>
+
+    <% if (site.tags && site.tags.length > 0) { %>
+    <%- partial('_widget/tag-wordcloud') %>
+    <% } %>
+
+</main>
