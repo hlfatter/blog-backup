@@ -2,7 +2,7 @@
 title: React 高阶组件
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/4.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/7.jpg 
 tags:
   - React
 categories: React
