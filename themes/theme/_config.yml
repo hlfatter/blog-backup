@@ -138,7 +138,7 @@ gitment:
 # disqus config, default disabled
 # Disqus评论模块的配置，默认为不激活
 disqus:
-  enable: true
+  enable: false
   shortname: IDeepspace
 
 # Livere comment configuration, the default is not activated
