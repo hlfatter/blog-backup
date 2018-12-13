@@ -2,7 +2,7 @@
 title: ES6 —— Set 和 Map 的数据结构
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/2.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/2.webp 
 tags:
   - ES6
 categories: JavaScript

@@ -2,7 +2,7 @@
 title: ES6 —— let 和 const
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/1.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/1.webp 
 tags:
   - ES6
 categories: JavaScript

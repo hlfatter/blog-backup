@@ -2,7 +2,7 @@
 title: ES6 —— 数组的拓展
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/3.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/3.webp 
 tags:
   - ES6
 categories: JavaScript

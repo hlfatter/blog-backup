@@ -2,7 +2,7 @@
 title: JavaScript 原型链和原型继承
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/5.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/5.webp 
 tags:
   - ES6
 categories: JavaScript

@@ -2,7 +2,7 @@
 title: React 基础知识
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/3.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/3.webp 
 tags:
   - React
 categories: React
