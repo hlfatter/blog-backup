@@ -6,6 +6,7 @@
     "version": "3.8.0"
   },
   "scripts": {
+    "dev": "hexo clean && hexo g && hexo deploy",
     "build": "hexo clean && hexo g && gulp build && hexo deploy"
   },
   "dependencies": {
