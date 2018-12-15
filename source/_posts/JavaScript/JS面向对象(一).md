@@ -2,7 +2,7 @@
 title: JS 面向对象(一)
 author: Deepspace
 top: true
-img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/6.webp 
+img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/6.webp 
 tags:
   - JavaScript
 categories: JavaScript
