@@ -2,7 +2,7 @@
 title: React 基础知识
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/3.webp 
+img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/3.jpg 
 tags:
   - React
 categories: React
@@ -24,7 +24,7 @@ React.js 不是一个框架，它只是一个库。它只提供 `UI （view`）�
 
 ### 一、Hello World
 
-`create-react-app` 是来自于 `Facebook` 出品的零配置命令行工具，能够帮你自动创建基于`Webpack+ES6` 的最简易的 `React` 项目模板。
+`create-react-app` 是来自于 `Facebook` 出品的零配置命令行工具，能够帮你自动创建基于`jpgack+ES6` 的最简易的 `React` 项目模板。
 
 ```shell
 npm install -g create-react-app

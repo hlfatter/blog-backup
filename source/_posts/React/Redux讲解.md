@@ -2,7 +2,7 @@
 title: Redux 基础知识
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/8.webp 
+img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/8.jpg 
 tags:
   - Redux
   - React
