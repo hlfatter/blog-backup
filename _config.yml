@@ -85,7 +85,9 @@ theme: theme
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/IDeepspace/IDeepspace.github.io.git
+  repo:
+    github: https://github.com/IDeepspace/IDeepspace.github.io.git
+    coding: https://git.coding.net/IDeepspace/IDeepspace.github.io.git
   branch: master
 
 search:
