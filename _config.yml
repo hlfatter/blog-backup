@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://ideepspace.coding.me/
+url: www.togoblog.cn
 root: /
 permalink: :urlname/
 permalink_defaults:
