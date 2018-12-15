@@ -2,7 +2,7 @@
 title: ES6 —— 箭头函数 Arrow Functions
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/0.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/0.jpg 
 tags:
   - ES6
 categories: JavaScript

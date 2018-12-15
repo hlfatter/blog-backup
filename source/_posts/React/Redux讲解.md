@@ -2,7 +2,7 @@
 title: Redux 基础知识
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/8.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/8.jpg 
 tags:
   - Redux
   - React
@@ -133,7 +133,7 @@ console.log(store.getState()); //当前值为121+2=123
 
 ### 三、Redux 工作流
 
-![Redux工作流](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/React/redux-flow.jpg)
+![Redux工作流](https://github.com/IDeepspace/ImageHosting/raw/master/React/redux-flow.jpg)
 
 ### 四、代码组织目录结构
 
@@ -217,7 +217,7 @@ console.log(store.getState()); //当前值为121+2=123
 
 最终的目录结构：
 
-![目录结构](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/React/redux-directory-structure.png)
+![目录结构](https://github.com/IDeepspace/ImageHosting/raw/master/React/redux-directory-structure.png)
 
 ### 四、UI 层
 
@@ -652,4 +652,4 @@ const mapDispatchToProps = {
 
 所以，最终的目录结构就变成下面这个样子（你也可以把 `store.js` 放在单独的 `store` 文件夹里面）：
 
-![目录结构](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/React/redux-folder-structure.png)
+![目录结构](https://github.com/IDeepspace/ImageHosting/raw/master/React/redux-folder-structure.png)

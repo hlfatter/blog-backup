@@ -2,7 +2,7 @@
 title: Express + Mongoose 实现增删改查
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/7.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/7.jpg 
 tags:
   - Express
   - Mongoose
@@ -178,7 +178,7 @@ router.get('/list', (req, res, next) => {
 
 `res.render()` 方法接收两个参数：第一个参数为视图文件名，第二个参数是一个对象，用于向模板中传递数据，`user` 就是在这里传过去的。更改完路由之后我们重启服务器，访问 <http://localhost:3000/users/list> 就可以看到用户列表页面了。
 
-![用户列表](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/NodeJS/express-2.png)
+![用户列表](https://github.com/IDeepspace/ImageHosting/raw/master/NodeJS/express-2.png)
 
 但是用户列表中的数据是写死的，我们应该从数据库中获取，下面我们来做这个工作。
 
@@ -260,7 +260,7 @@ var userSchema = new Schema({
 
 **Schema Types 内置类型如下：**
 
-![](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/NodeJS/Schema-Types.png)
+![](https://github.com/IDeepspace/ImageHosting/raw/master/NodeJS/Schema-Types.png)
 
 #### 5. 生成 Model
 

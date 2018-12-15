@@ -2,7 +2,7 @@
 title: React 基础知识
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/3.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/3.jpg 
 tags:
   - React
 categories: React
@@ -36,7 +36,7 @@ npm start
 
 执行完上述命令之后，你可以直接打开 http://localhost:3000，即可以看到你 `React APP` 的运行效果：
 
-![create-react-app](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/React/create-react-app.png)
+![create-react-app](https://github.com/IDeepspace/ImageHosting/raw/master/React/create-react-app.png)
 
 **目录结构：**
 
@@ -254,7 +254,7 @@ const tick = () => {
 setInterval(tick, 1000);
 ```
 
-![更新必要部分](https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/React/granular-dom-updates.gif)
+![更新必要部分](https://github.com/IDeepspace/ImageHosting/raw/master/React/granular-dom-updates.gif)
 
 ### 四、组件&Props
 

@@ -2,7 +2,7 @@
 title: 如何使用 Docker-Compose 部署 WordPress
 author: Deepspace
 top: true
-img: https://media-1252448650.cos.ap-guangzhou.myqcloud.com/ImageHosting/bg/0.jpg 
+img: https://github.com/IDeepspace/ImageHosting/raw/master/bg/0.jpg 
 categories: Docker
 date: 2018-05-12
 urlname: docker-wordpress
